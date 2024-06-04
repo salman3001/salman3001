@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Salman Khan. I make full stack apps.
-- 👀 I’m specialized in react js, expressjs, nestjs, mongodb, redux, RTK query, html5, css3, matrial ui, styled components, tailwind css, javascript, typescript,nodejs, server side and client side rendering, form validataions, jest tesing and much more. 
-- 🌱 I’m currently learning advance concepts of full stack development. 
+## 👋 Hi, I’m Salman. I make web apps.
 
-- 📫 You can reach me by email. Therodfighter@gmail.com
+#### Skills
+- Nodejs (Express,Nest,Adonis), React, Vue, Javascript, Typescript, Backend developement, Frontend development, MySql, Postgres, Mongodb, Rest apis, Api integration, Clean architecture, test driven development, Microservices, Docker and more
+  
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salman3001&theme=dark&hide_border=true)
+
+<!---
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salman3001&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+
+
+
 
 <!---
 salman3001/salman3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
