@@ -1,20 +1,43 @@
-## 👋 Hi, I’m Salman. I make web apps.
+## 👋 Hi, I’m Salman. I am a full stack web developer.
 
-#### Skills
-- Nodejs (Express,Nest,Adonis), React, Vue, Javascript, Typescript, Backend developement, Frontend development, MySql, Postgres, Mongodb, Rest apis, Api integration, Clean architecture, test driven development, Microservices, Docker and more
+#### Frameworks i use and love
+- Expressjs
+- Adonisjs
+- Nestjs
+- Honojs
+- Vuejs
+- Nuxtjs
+- Reactjs
+- Nextjs
+- Asto
+
+### frameworks i am exploring and learning.
+- django
+- asp.net core
+
+### My Favourite Languange 
+- Typescript
+- JavaScript
+- Python
+- C#
+
+### Os i use
+- Linux
   
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salman3001&theme=dark&hide_border=true)
-
-<!---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salman3001&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-
-
-
-
-<!---
-salman3001/salman3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My skills.
+- Develope complete frontend.
+- develope complete backend
+- deploy production app on cloud VPS.
+- Adding new featured and fixing reported bugs.
+- Api development.
+- server side templating
+- seo optimization
+- docker containerization
+- configuring nginx server
+- consuming third party api like payment gateways, social auths etc.
+- saas application development.
+- converting figma design reacjs or vuejs
+- knowledge of various ui libraries.
+- ensuring code scalability and follwing solid prinicples.
+- can do micro services.
+- a good team member with possitive attitude 
