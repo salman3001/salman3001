@@ -1,43 +1,24 @@
-## 👋 Hi, I’m Salman. I am a full stack web developer.
+# SALMAN KHAN (FULL STACK DEVELOPER)
 
-#### Frameworks i use and love
-- Expressjs
-- Adonisjs
-- Nestjs
-- Honojs
-- Vuejs
-- Nuxtjs
-- Reactjs
-- Nextjs
-- Asto
+An experienced Full-Stack Developer with hands-on expertise in building end-to-end applications using modern technologies like Node.js, React, Vue, .NET, and Flutter. Adept at working across the technology stack—from intuitive front-end interfaces to robust backend services, databases, real-time features, and cloud deployments. Passionate about clean code, performance optimization, and delivering high-quality, scalable digital products
 
-### frameworks i am exploring and learning.
-- django
-- asp.net core
+## SKILLS
 
-### My Favourite Languange 
-- Typescript
-- JavaScript
-- Python
-- C#
+- **Frontend:** React.js, Vue.js, Blazor, Razor Pages, .NET MVC — responsive, component-based UI -development.
+- **Backend & API:** Node.js (Express, NestJS, Hono), ASP.NET Core — secure and high-performance API and service design.
+- **Mobile & Cross-Platform:** Flutter, .NET MAUI — building mobile and desktop apps from a single codebase.
+- **Databases:** PostgreSQL, MySQL, MongoDB — schema design, optimization, and data handling.
+- **DevOps & Tools:** Git, CI/CD, VPS/Docker/Nginx, cloud deployment, SEO & performance tuning.
+- **Development Experience:** SaaS Apps, E-commerce, CMS, real-time features (WebSockets), payment integrations, end-to-end product delivery. 
 
-### Os i use
-- Linux
-  
-### My skills.
-- Develope complete frontend.
-- develope complete backend
-- deploy production app on cloud VPS.
-- Adding new featured and fixing reported bugs.
-- Api development.
-- server side templating
-- seo optimization
-- docker containerization
-- configuring nginx server
-- consuming third party api like payment gateways, social auths etc.
-- saas application development.
-- converting figma design reacjs or vuejs
-- knowledge of various ui libraries.
-- ensuring code scalability and follwing solid prinicples.
-- can do micro services.
-- a good team member with possitive attitude 
+## TECHNICAL HIGHLIGHTS
+
+- **Languages:** TypeScript, JavaScript, C#, Dart
+- **Frontend:** React, Vue, Blazor
+- **Backend:** Node.js, ASP.NET Core
+- **Mobile:** Flutter, .NET MAUI
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps:** Docker, CI/CD, VPS, Nginx
+- **Testing:** Vitest, Jest, Playwright
+- **Cloud:** Server deployments, performance optimization 
+
